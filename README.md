@@ -12,6 +12,7 @@ A minimalistic theme made for Firefox, dark palette based and key centered. If y
 3. In the config accept the risk if asked. Search the following path `Application Basics > Profile Directory > Open Directory`.
 4. Move `firefox-minimal-theme/chrome/userChrome.css` inside previous path.
 5. Restart firefox, and be familiar with the keys.
+
 If you want to uninstall the theme, just must remove `chrome` folder and restart.
 
 ## Shorcuts
