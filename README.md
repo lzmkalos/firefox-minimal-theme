@@ -8,7 +8,7 @@ A minimalistic theme made for Firefox, dark palette based and key centered. If y
 
 ## Installation
 1. Clone this repo with `git clone https://github.com/kadaxi/firefox-minimal-theme.git`.
-2. Enter in firefox and search at the top bar for `about::config`.
+2. Enter in firefox and search at the top bar for `about:support`.
 3. In the config accept the risk if asked. Search the following path `Application Basics > Profile Directory > Open Directory`.
 4. Move `firefox-minimal-theme/chrome/userChrome.css` inside previous path.
 5. Restart firefox, and be familiar with the keys.
